@@ -5,6 +5,6 @@ This app is developed by Koltin language with android studio
 
 
 
-
+This is video show what app is Doing
 https://user-images.githubusercontent.com/68238337/188276890-cda86f8a-2d47-4da1-8380-2ad4f4f1ba09.mp4
 
